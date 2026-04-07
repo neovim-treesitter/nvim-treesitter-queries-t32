@@ -1,8 +1,7 @@
 {
-  "min_version": null,
-  "max_version": null,
-  "lang": "t32",
-  "location": null,
   "url": "https://github.com/xasc/tree-sitter-t32",
-  "semver": false
+  "semver": false,
+  "parser_version": "3bce3977303c3f88bfa9fcdfcfd1a4f8f6ffa0b0",
+  "lang": "t32",
+  "location": null
 }
