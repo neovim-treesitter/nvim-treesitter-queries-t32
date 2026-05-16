@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/xasc/tree-sitter-t32",
   "semver": false,
-  "parser_version": "6108fa3967607ec665cb2651acaa9a73ee593c51",
+  "parser_version": "10efedb0e446c15385f8578d22dcba24cf622e9d",
   "lang": "t32"
 }
